@@ -1,0 +1,89 @@
+{
+  "Month":12,
+  "Year":2019,
+  "Rate":0.25,
+  "OtherDaysToExclude": ["20191223","20191224","20191225", "20191226","20191227","20191230"],
+  "OutputDirectory":"C:/Users/aloiz/scripts/scripts-master/vivlio_diakinisis/output",
+  "Trips": {
+        "WeekDayTrip": {
+        "From": "Alexandrou Panagouli 52, 6057, Larnaca",
+        "To": "Εφορος Εταιρειών, Λεωφ. Αρχιεπισκόπου Μακαρίου Γ', Λευκωσία",
+        "DistanceInKm": 45,
+        "Reason": "Εργασία στον Έφορο Εταιρειών και Επίσημου Παραλήπτη"
+      }
+    ,
+      "SaturdayTrip": null
+    ,
+      "SundayTrip": null
+    },
+    "PublicHolidays":[
+        {
+            "Date":"20190101",
+            "DateDescription":"New Year's Day"
+        },
+        {
+            "Date":"20190106",
+            "DateDescription":"Epiphany"
+        },
+        {
+            "Date":"20190311",
+            "DateDescription":"Green Monday"
+        },
+        {
+            "Date":"20190325",
+            "DateDescription":"Greek Independence Day"
+        },
+        {
+            "Date":"20190401",
+            "DateDescription":"Cyprus National Holiday"
+        },
+        {
+            "Date":"20190426",
+            "DateDescription":"Good Friday (Orthodox)"
+        },
+        {
+            "Date":"20190427",
+            "DateDescription":"Holy Saturday (Orthodox)"
+        },
+        {
+            "Date":"20190428",
+            "DateDescription":"Easter Sunday (Orthodox)"
+        },
+        {
+            "Date":"20190429",
+            "DateDescription":"Easter Monday (Orthodox)"
+        },
+        {
+            "Date":"20190501",
+            "DateDescription":"Labour Day/May Day"
+        },
+        {
+            "Date":"20190617",
+            "DateDescription":"Orthodox Pentecost Monday"
+        },
+        {
+            "Date":"20190625",
+            "DateDescription":"Funeral of Former President Dimitris Christofias"
+        },
+        {
+            "Date":"20190815",
+            "DateDescription":"Assumption of the Virgin Mary"
+        },
+        {
+            "Date":"20191001",
+            "DateDescription":"Cyprus Independence Day"
+        },
+        {
+            "Date":"20191028",
+            "DateDescription":"Ochi Day"
+        },
+        {
+            "Date":"20191225",
+            "DateDescription":"Christmas Day"
+        },
+        {
+            "Date":"20191226",
+            "DateDescription":"Boxing Day"
+        }
+    ]
+}

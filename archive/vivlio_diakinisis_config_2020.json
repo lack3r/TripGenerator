@@ -1,0 +1,85 @@
+{
+  "Month":2,
+  "Year":2020,
+  "Rate":0.25,
+  "OtherDaysToExclude": ["20191223","20191224"],
+  "OutputDirectory":"C:/Users/aloiz/scripts/scripts-master/vivlio_diakinisis/output",
+  "Trips": {
+        "WeekDayTrip": {
+        "From": "Alexandrou Panagouli 52, 6057, Larnaca",
+        "To": "Εφορος Εταιρειών, Λεωφ. Αρχιεπισκόπου Μακαρίου Γ', Λευκωσία",
+        "DistanceInKm": 45,
+        "Reason": "Εργασία στον Έφορο Εταιρειών και Επίσημου Παραλήπτη"
+      }
+    ,
+      "SaturdayTrip": null
+    ,
+      "SundayTrip": null
+    },
+    "PublicHolidays":[
+        {
+            "Date":"20200101",
+            "DateDescription":"New Year's Day"
+        },
+        {
+            "Date":"20200106",
+            "DateDescription":"Epiphany"
+        },
+        {
+            "Date":"20200302",
+            "DateDescription":"Green Monday"
+        },
+        {
+            "Date":"20200325",
+            "DateDescription":"Greek Independence Day"
+        },
+        {
+            "Date":"20200401",
+            "DateDescription":"Cyprus National Holiday"
+        },
+        {
+            "Date":"20200417",
+            "DateDescription":"Good Friday (Orthodox)"
+        },
+        {
+            "Date":"20200418",
+            "DateDescription":"Holy Saturday (Orthodox)"
+        },
+        {
+            "Date":"20200419",
+            "DateDescription":"Easter Sunday (Orthodox)"
+        },
+        {
+            "Date":"20200420",
+            "DateDescription":"Easter Monday (Orthodox)"
+        },
+        {
+            "Date":"20200501",
+            "DateDescription":"Labour Day/May Day"
+        },
+        {
+            "Date":"20200608",
+            "DateDescription":"Orthodox Pentecost Monday"
+        },
+        {
+            "Date":"20200815",
+            "DateDescription":"Assumption of the Virgin Mary"
+        },
+        {
+            "Date":"20201001",
+            "DateDescription":"Cyprus Independence Day"
+        },
+        {
+            "Date":"20201028",
+            "DateDescription":"Ochi Day"
+        },
+        {
+            "Date":"20201225",
+            "DateDescription":"Christmas Day"
+        },
+        {
+            "Date":"20201226",
+            "DateDescription":"Boxing Day"
+        }
+    ]
+}
