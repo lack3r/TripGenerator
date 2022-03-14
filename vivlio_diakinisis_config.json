@@ -1,7 +1,7 @@
 {
   "Months": [1,2,3,4,5,6,7,8,9,10,11,12],
-  "Year":2021,
-  "Rate":0.25,
+  "Year":2022,
+  "Rate":0.30,
   "OtherDaysToExclude": ["20191223","20191224"],
   "OutputDirectory":"output/",
   "Trips": {
@@ -17,20 +17,19 @@
       "SundayTrip": null
     },
     "PublicHolidays":[
-        {"Date":"20210101","DateDescription":"New Year's Day"},
-        {"Date":"20210106","DateDescription":"Epiphany"},
-        {"Date":"20210315","DateDescription":"Green Monday"},
-        {"Date":"20210325","DateDescription":"Greek Independence Day"},
-        {"Date":"20210401","DateDescription":"Cyprus National Holiday"},
-        {"Date":"20210430","DateDescription":"Good Friday (Orthodox)"},
-        {"Date":"20210501","DateDescription":"Labour Day/May Day"},
-        {"Date":"20210503","DateDescription":"Easter Monday (Orthodox)"},
-        {"Date":"20210504","DateDescription":"Orthodox Easter Tuesday (banks only)"},
-        {"Date":"20210621","DateDescription":"Orthodox Pentecost Monday"},
-        {"Date":"20210815","DateDescription":"Assumption of the Virgin Mary"},
-        {"Date":"20211001","DateDescription":"Cyprus Independence Day"},
-        {"Date":"20211028","DateDescription":"Ochi Day"},
-        {"Date":"20211225","DateDescription":"Christmas Day"},
-        {"Date":"20211226","DateDescription":"Boxing Day"}
+        {"Date":"20220101","DateDescription":"New Year's Day"},
+        {"Date":"20220106","DateDescription":"Epiphany"},
+        {"Date":"20220315","DateDescription":"Green Monday"},
+        {"Date":"20220325","DateDescription":"Greek Independence Day"},
+        {"Date":"20220401","DateDescription":"Cyprus National Holiday"},
+        {"Date":"20220430","DateDescription":"Good Friday (Orthodox)"},
+        {"Date":"20220501","DateDescription":"Easter Monday (Orthodox)"},
+        {"Date":"20220503","DateDescription":"Labour Day/May Day"},
+        {"Date":"20220504","DateDescription":"Orthodox Pentecost Monday"},
+        {"Date":"20220621","DateDescription":"Assumption of the Virgin Mary"},
+        {"Date":"20220815","DateDescription":"Cyprus Independence Day"},
+        {"Date":"20221001","DateDescription":"Ochi Day"},
+        {"Date":"20221028","DateDescription":"Christmas Day"},
+        {"Date":"20221225","DateDescription":"Boxing Day"}
     ]
 }
